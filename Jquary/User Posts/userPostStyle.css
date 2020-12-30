@@ -1,0 +1,15 @@
+
+[{
+    user: {
+        name: 'swdfsf',
+        email: 'kksdfsdf',
+        avatar:'sdfklsdf'
+    },
+    id: 'post id',
+    title: 'post title',
+    body: 'post body',
+    comments: [{
+        text: 'comment text',
+        username: 'user name'
+    }]
+},...]
