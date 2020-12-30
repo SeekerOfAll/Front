@@ -1,0 +1,34 @@
+
+div div:nth-of-type(1) meter::-webkit-meter-suboptimum-value{background:#f071a0;}
+div div:nth-of-type(2) meter::-webkit-meter-suboptimum-value{background:#e2b14d;}
+div div:nth-of-type(3) meter::-webkit-meter-optimum-value {background: #99c552;}
+div div:nth-of-type(4) meter::-webkit-meter-optimum-value {background:#65aac1;}
+
+
+body{
+    background-color: #00ffff;
+}
+.box{
+    margin: 0 25px 0 0;
+    height: 250px;
+    width: 250px;
+    float: right;
+    background-color: #e9e5e2;
+    position: relative;
+
+}
+label{
+    margin-left: 20px;
+    font-size: 13px;
+}
+meter {
+    margin: 0 auto ;
+    width: 200px;
+    height: 30px;
+    display: block;
+    padding-bottom: 5px;
+}
+.top_margin{
+    margin-top: 20px;
+}
+
